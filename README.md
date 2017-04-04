@@ -63,3 +63,12 @@ The planning and announcements would also be done here.
 
 5. On Repo Blade page, if you swipe open a folder on one level, while the next level is shown, if you swipe open a file on the same level as the folder, the file would be open in Code Page, if you go back Blade page, the opened folder would not close due to your selection of a file. This is for the convenience and can be improved for right use case.
 
+
+## Proudly using
+
+* https://github.com/Microsoft/UWPCommunityToolkit
+* https://github.com/mbdavid/LiteDB
+
+
+
+[![Get it on Windows 10](https://assets.windowsphone.com/f2f77ec7-9ba9-4850-9ebe-77e366d08adc/English_Get_it_Win_10_InvariantCulture_Default.png)](https://www.microsoft.com/store/apps/9ntphrk6qlfg?ocid=badge)
